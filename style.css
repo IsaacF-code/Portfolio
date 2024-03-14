@@ -8,12 +8,8 @@
 body {
     background-color: #000000;
     color: #f6f6f6;
-    height: 100vh;
+    /* height: 100vh; */
     box-sizing: border-box;
-}
-
-.menu {
-    display: flex;
 }
 
 .titulo-destaque {
@@ -21,7 +17,7 @@ body {
 }
 
 .apresentacao {
-    margin: 10% 15%;
+    padding: 5% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
